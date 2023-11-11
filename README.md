@@ -1,3 +1,5 @@
+![Glacier shinkage in the Alps](images/esalp-glacier-shrinkage-alps-1000x1290.png)
+
 # Glacier shrinkage in the Alps
 
 This is my entry to the **Little Pictures of climate competition 2023**, organized
@@ -56,11 +58,11 @@ footer with a pleasing typographic design.
 
 ## HTML rendering
 
-* [glacier shrinkage in the Alps](index.html)
+* [glacier shrinkage in the Alps](https://fouronnes.github.io/esalp/)
 
 ## PNG exports
 
-* [800x1032](esalp-glacier-shrinkage-alps-800x1032.png)
-* [1000x1290](esalp-glacier-shrinkage-alps-1000x1290.png)
-* [1200x1548](esalp-glacier-shrinkage-alps-1200x1548.png)
-* [1600x2064](esalp-glacier-shrinkage-alps-1600x2064.png)
+* [800x1032](images/esalp-glacier-shrinkage-alps-800x1032.png)
+* [1000x1290](images/esalp-glacier-shrinkage-alps-1000x1290.png)
+* [1200x1548](images/esalp-glacier-shrinkage-alps-1200x1548.png)
+* [1600x2064](images/esalp-glacier-shrinkage-alps-1600x2064.png)
